@@ -8,9 +8,9 @@ This activity bridges your career interests and your academic options. You will 
 
 Based on your Ikigai reflection and your POV Statement, identify two specific career roles — not just broad fields, but actual job titles or professional roles. For example, not "healthcare" but "health policy analyst" or "clinical social worker."
 
-**Career Path 1:** [Job Title]
+**Career Path 1:** [Applied AI engineer]
 
-**Career Path 2:** [Job Title]
+**Career Path 2:** [AI Security Analyst]
 
 ---
 
@@ -21,76 +21,76 @@ For each career, use O*NET, the BLS Occupational Outlook Handbook, LinkedIn, and
 ### Career 1
 
 **Career Title:**
-[Your response here]
+[AI Security Analyst/Engineer]
 
 **Brief Description** *(what does this person do day to day?):*
-[Your response here]
+[Focuses on defending AI and machine learing models from data poisoning, adversarial attacks, and prompt injection]
 
 **Typical Education Required:**
-[Your response here]
+[4 year BS in applied Ai
 
 **Key Skills Required** *(list at least 6):*
-1. *skills-required-1*
-2. *skills-required-2*
-3. *skills-required-3*
-4. *skills-required-4*
-5. *skills-required-5*
-6. *skills-required-6*
+1. *core cybersecurity fundamentals*
+2. *machine learning literacy*
+3. *security operations*
+4. *tech and scripting skills*
+5. *Ai & Machine learning literacy*
+6. *AI attack surfaces*
 
 **Key Knowledge Areas Required:**
-[Your response here]
+[Core Cybersecurity foundations, machine learning knowlege]
 
 **Median Annual Salary:**
-[Your response here]
+[$139000]
 
 **Job Growth Outlook** *(growing, stable, declining?):*
-[Your response here]
+[growing]
 
 **Typical Career Path** *(how do people enter and advance in this field?):*
-[Your response here]
+[by obtaining degree in Applied AI or Cybersecurity, and advance by performance, experience]
 
 **3 specific courses or experiences that would build skills for this career:**
-1. *courses-or-experiences-1*
-2. *courses-or-experiences-2*
-3. *courses-or-experiences-3*
+1. *CECS-250-Data Tools, Science*
+2. *AI101*
+3. *AI102*
 
 ---
 
 ### Career 2
 
 **Career Title:**
-[Your response here]
+[AI Engineer]
 
 **Brief Description** *(what does this person do day to day?):*
-[Your response here]
+[Writing code, cleaning data, testing models]
 
 **Typical Education Required:**
-[Your response here]
+[BS- Applied AI]
 
 **Key Skills Required** *(list at least 6):*
-1. *skills-required-1*
-2. *skills-required-2*
-3. *skills-required-3*
-4. *skills-required-4*
-5. *skills-required-5*
-6. *skills-required-6*
+1. *Strong core software engineering fundamentals*
+2. *proficiency in python*
+3. *knowledge in building applications*
+4. *Evaluation and Observation*
+5. *fundamentals and knowledge in AI*
+6. *Agentic workflows and tool calling*
 
 **Key Knowledge Areas Required:**
-[Your response here]
+[Key knowledge to build, optimize, and deploy AI]
 
 **Median Annual Salary:**
-[Your response here]
+[$155000]
 
 **Job Growth Outlook** *(growing, stable, declining?):*
-[Your response here]
+[AI Engineer]
 
 **Typical Career Path** *(how do people enter and advance in this field?):*
-[Your response here]
+[By obtaining degree and performance in field]
 
 **3 specific courses or experiences that would build skills for this career:**
-1. *courses-or-experiences-1*
-2. *courses-or-experiences-2*
-3. *courses-or-experiences-3*
+1. *AI-101*
+2. *CECS-250 Data tools and science*
+3. *AI-102*
 
 ---
 
@@ -100,41 +100,41 @@ For each career, create a simple map that connects the career's requirements to 
 
 ### Career-to-Degree Map: Career 1
 
-**Career:** [Title]
+**Career:** [AI Security Analyst]
 
-**Degree Path that best supports this career:** [Major + potential minor or concentration]
+**Degree Path that best supports this career:** [Applied AI + minor in Cybersecurity]
 
 **Specific courses from your research that align with this career:**
-- [Course 1] → [Skill it develops]
-- [Course 2] → [Skill it develops]
-- [Course 3] → [Skill it develops]
+- [CECS-250] → [Understanding the math behind the AI and how to detect it]
+- [AI101] → [Learning the fundamentals of Artifiical Intelligence]
+- [AI102] → [Making more sense of what AI is and how to use it]
 
 **Elective areas worth exploring for this career:**
 - [Area 1]
 - [Area 2]
 
 **Experiences beyond the classroom that would strengthen this path:**
-- [Internship, research, volunteer work, club, etc.]
+- [Internships and research on the topics]
 
 ---
 
 ### Career-to-Degree Map: Career 2
 
-**Career:** [Title]
+**Career:** [Applied AI Engineer]
 
-**Degree Path that best supports this career:** [Major + potential minor or concentration]
+**Degree Path that best supports this career:** [Applied AI + Cybersecurity]
 
 **Specific courses from your research that align with this career:**
-- [Course 1] → [Skill it develops]
-- [Course 2] → [Skill it develops]
-- [Course 3] → [Skill it develops]
+- [CECS250] → [Understanding the math behind ai and learing how to detect it]
+- [AI101] → [understanding AI]
+- [AI102] → [Making more sense of AI and how to use it]
 
 **Elective areas worth exploring for this career:**
 - [Area 1]
 - [Area 2]
 
 **Experiences beyond the classroom that would strengthen this path:**
-- [Internship, research, volunteer work, club, etc.]
+- [Internships and research]
 
 ---
 
@@ -148,4 +148,4 @@ Write a short reflection (6–10 sentences):
 - What is one question this activity raised that you want to explore further?
 
 **My Reflection:**
-[Your response here]
+[I think the first path aligns better with my Statement, it helps me connect better, I was suprised about the hefty salary that came with these jobs. It helped me see that I need to get more involved in cybersecurity as a potential minor. If I can work locally or if I will have to move or travel, besides that I believe all questions solved themself.]
