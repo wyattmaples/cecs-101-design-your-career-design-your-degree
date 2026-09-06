@@ -9,8 +9,7 @@ Vague intentions do not produce results. This activity moves you from intention 
 Reread your POV Statement. Your goals should move you in the direction defined by your POV Statement. If they do not connect, something is misaligned.
 
 **My POV Statement (for reference):**
-[Paste your POV Statement here]
-
+[I am Wyatt Maples from Pigeon Forge, Tennessee where I know I can make a difference in making a better future for everyone. A degree path where I can connect with many people to help protect them from the threats and concerns of the cyberspace and artificial intelligence, in this way I can make a big difference in my hometown, where my roots are strong, and the place I enjoy being and I know working this way will be good and keep me engaged as apart from being away from people and stuck away in an office]
 ---
 
 ## Step 2 — Brainstorm Goal Areas
@@ -18,22 +17,22 @@ Reread your POV Statement. Your goals should move you in the direction defined b
 Before writing formal SMART goals, brainstorm freely. For each category below, list 3–4 things you want to accomplish in the next 1–4 years. Do not filter yourself in this step — just generate ideas.
 
 **Academic** *(courses, GPA, relationships with faculty, study habits...)*
--
--
--
--
+- I want to make Dean's List at least half of my semesters
+- Make plenty of time for studying so I don't cram
+- Have good relations with my professors
+- Have a 3.5 or above GPA
 
 **Career** *(internships, skills, certifications, networking...)*
--
--
--
--
+- I want to eventually intern with the City of Pigeon Forge
+- develop plenty of skills in AI and cyberspace
+- Make many connections with people already in my field and find out more about it
+- get certified in cybersecurity
 
 **Personal Development** *(campus involvement, health, community, leadership...)*
--
--
--
--
+- Get more involved with clubs around campus
+- I would like to take more time for my mental health
+- Be more involved in giving back to my community
+- Work out more
 
 ---
 
@@ -49,125 +48,125 @@ For each goal, complete the following SMART evaluation.
 ### Goal 1 (Academic — Short-Term)
 
 **Goal Statement:**
-[Write a clear, complete goal statement]
+[Make the Dean's List]
 
 **S — Specific:** What exactly will I do or achieve?
-[Your response here]
+[I need to focus on my work and study more often]
 
 **M — Measurable:** How will I track progress? How will I know I succeeded?
-[Your response here]
+[I will look at my grades, when I see my name]
 
 **A — Achievable:** Why is this realistic given my current situation?
-[Your response here]
+[I believe that I can do great in all of my classes]
 
 **R — Relevant:** How does this connect to my POV Statement and career direction?
-[Your response here]
+[Performing well academically will help me achieve my goals outlined in the statement]
 
 **T — Time-Bound:** By when will I achieve this? What is my deadline?
-[Your response here]
+[I will achieve this by the end of the semester]
 
 **Immediate Next Action:** What is one concrete step I can take THIS WEEK toward this goal?
-[Your response here]
+[Study for a couple hours]
 
 ---
 
 ### Goal 2 (Academic — Mid-Term)
 
 **Goal Statement:**
-[Write a clear, complete goal statement]
+[I would like to maintain a high GPA]
 
 **S — Specific:** What exactly will I do or achieve?
-[Your response here]
+[I need to be more active and attentive in classes]
 
 **M — Measurable:** How will I track progress? How will I know I succeeded?
-[Your response here]
+[I can track progress by making sure I study hard and turn in stuff]
 
 **A — Achievable:** Why is this realistic given my current situation?
-[Your response here]
+[It's reasonable because I know I can perform well]
 
 **R — Relevant:** How does this connect to my POV Statement and career direction?
-[Your response here]
+[It would be huge for my career if I graduate with a high GPA, which relates to my Statement]
 
 **T — Time-Bound:** By when will I achieve this? What is my deadline?
-[Your response here]
+[Just throughout my first couple of years at UTK]
 
 **Immediate Next Action:** What is one concrete step I can take THIS WEEK toward this goal?
-[Your response here]
+[Study]
 
 ---
 
 ### Goal 3 (Career — Short-Term)
 
 **Goal Statement:**
-[Write a clear, complete goal statement]
+[Get a good internship and get good connections with people]
 
 **S — Specific:** What exactly will I do or achieve?
-[Your response here]
+[by putting myself out there and applying]
 
 **M — Measurable:** How will I track progress? How will I know I succeeded?
-[Your response here]
+[I will track it by if I can succeed or not]
 
 **A — Achievable:** Why is this realistic given my current situation?
-[Your response here]
+[I believe that if I can get a good internship then I can get a good job]
 
 **R — Relevant:** How does this connect to my POV Statement and career direction?
-[Your response here]
+[It coorelates perfectly with my statement, and it would elevate my career
 
 **T — Time-Bound:** By when will I achieve this? What is my deadline?
-[Your response here]
+[by the end of college]
 
 **Immediate Next Action:** What is one concrete step I can take THIS WEEK toward this goal?
-[Your response here]
+[reaching out to positions]
 
 ---
 
 ### Goal 4 (Career — Mid-Term)
 
 **Goal Statement:**
-[Write a clear, complete goal statement]
+[Learn important skills that will help me succeed]
 
 **S — Specific:** What exactly will I do or achieve?
-[Your response here]
+[🥇Learn from people in my career path and listen in my classes]
 
 **M — Measurable:** How will I track progress? How will I know I succeeded?
-[Your response here]
+[By being able to do the skills]
 
 **A — Achievable:** Why is this realistic given my current situation?
-[Your response here]
+[This is more than realistic this is an essential for my future career]
 
 **R — Relevant:** How does this connect to my POV Statement and career direction?
-[Your response here]
+[By being able to gain impactful skills I can provide to my job and my community]
 
 **T — Time-Bound:** By when will I achieve this? What is my deadline?
-[Your response here]
+[throughout college and life in general]
 
 **Immediate Next Action:** What is one concrete step I can take THIS WEEK toward this goal?
-[Your response here]
+[Listen harder]
 
 ---
 
 ### Goal 5 (Personal Development)
 
 **Goal Statement:**
-[Write a clear, complete goal statement]
+[I want to work on my health]
 
 **S — Specific:** What exactly will I do or achieve?
-[Your response here]
+[I need to take more "me" time and work out more often]
 
 **M — Measurable:** How will I track progress? How will I know I succeeded?
-[Your response here]
+[By how I'm feeling]
 
 **A — Achievable:** Why is this realistic given my current situation?
-[Your response here]
+[It's always essential to make sure that your temple is well cared for]
 
 **R — Relevant:** How does this connect to my POV Statement and career direction?
-[Your response here]
+[by helping myself I can help people easier]
 
 **T — Time-Bound:** By when will I achieve this? What is my deadline?
-[Your response here]
+[I will always be working on my self]
 
 **Immediate Next Action:** What is one concrete step I can take THIS WEEK toward this goal?
-[Your response here]
+[work out more]
 
 ---
 
@@ -177,11 +176,11 @@ After completing the evaluation for each goal, create a summary table:
 
 | No | Goal Summary | Category | Timeframe | Key Measure |
 |---|---|---|---|---|
-| 1 | [Brief summary] | Academic | [Semester/Year] | [How you measure it] |
-| 2 | [Brief summary] | Academic | [Semester/Year] | [How you measure it] |
-| 3 | [Brief summary] | Career | [Semester/Year] | [How you measure it] |
-| 4 | [Brief summary] | Career | [Semester/Year] | [How you measure it] |
-| 5 | [Brief summary] | Personal Development | [Semester/Year] | [How you measure it] |
+| 1 | [Make the Dean's List] | Academic | [Fall/2026] | [By doing my work effiecitnly and studying hard] |
+| 2 | [Maintain a high GPA] | Academic | [ALL/2026-2030] | [By focusing on my classes and maintaining consistency] |
+| 3 | [Get a good internship] | Career | [Either/2026-2030] | [getting in with good people in my field] |
+| 4 | [Obtain important career skills] | Career | [ALL/2026-2030] | [By being able to do skills to help me in my future] |
+| 5 | [Work on myself] | Personal Development | [All the Time] | [keeping up with my body and feeling good mentally] |
 
 ---
 
@@ -195,4 +194,4 @@ Write a short reflection (6–10 sentences):
 - What surprised you about this goal-setting process?
 
 **My Reflection:**
-[Your response here]
+[Of my SMART Goals I believe that the most urgent would have to be making the dean's list my first semester only because I can be working on that right now. Most challenging to me has to be getting a good internship or high GPA. My goals allign with my Statement almost perfectly because everyone of my goals will help provide me with the way I want to live and do my career. Nothing truly suprised me during this process, I already knew all of the things I need to complete.]
