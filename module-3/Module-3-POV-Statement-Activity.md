@@ -14,11 +14,11 @@ Open your previous assignments and read through your key insights from:
 As you read, highlight or note the three to five themes that appear most consistently. You are looking for patterns — things that showed up in multiple places.
 
 **Themes I noticed:**
-1. *theme-1*
-2. *theme-2*
-3. *theme-3*
-4. *theme-4*
-5. *theme-5*
+1. **I am able to work well under pressure**
+2. **I need to provide for my self-needs more**
+3. **Being consistent is key for my success**
+4. **I can use my skills for more than I am now**
+5. **As I continue in college I can help people with my leadership**
 
 ---
 
@@ -28,23 +28,23 @@ Write honest answers to each of the following questions. Do not overthink — wr
 
 **1. Who am I in this moment, academically and personally?**
 *(Consider: your background, your identity, your situation as a college student)*
-[Your response here]
+[I am myself through and through, I never try and be something I'm not, acedmically I am still trying to figure out the college lifestyle while also getting pretty great grades. Personally I am very happy with my life and am proud to say that I am a very kind and empathetic person.]
 
 **2. What do I genuinely need from my college education?**
 *(Consider: what would make this experience feel meaningful — not just successful)*
-[Your response here]
+[I genuinely need my degree and knowledge in my field from college, and knowing I'm ready for my future]
 
 **3. What is the most important thing I learned about myself in Module 2?**
 *(Consider: something surprising, clarifying, or that shifted how you see yourself)*
-[Your response here]
+[I learned that I can do more for the people around me that I love, and showed that I need to be more accepting]
 
 **4. What kind of work energizes me? What drains me?**
 *(Consider: from your Empathy Map and Ikigai reflection)*
-[Your response here]
+[Work that is confusing to access and not actually do drains me, speaking with people and asking people questions energizes me]
 
 **5. What problem or challenge do I most want to contribute to solving in the world?**
 *(Consider: even a vague answer is useful here)*
-[Your response here]
+[I want to make sure that artificial intelligence doesn't take away from true knowledge of people]
 
 ---
 
@@ -58,15 +58,15 @@ Use the following template to draft your POV Statement. Write it in your own voi
 > "I am a first-generation college student from a small town who has always been drawn to science but also deeply values connection to people and community. I need a degree path that lets me combine analytical thinking with direct human impact, because I have learned that I lose motivation and meaning when my work feels disconnected from real people's lives."
 
 ### Draft 1
-[Your first draft here]
+[I am a respected young man from a town where I believe that I can make a difference in the future for, whether that being through working with new cutting edge technology, or providing new ideas for the greater of the city. I need a degree that allows me to work with my community which I am so deeply rooted in through keeping technology safe and our people knowlegable about, by making my home better and beautiful I know that kind of work will keep me engaged and focused apart from being drained by working away from people]
 
 ### Draft 2
-[Your second draft here]
+[I am Wyatt Maples from Pigeon Forge, Tennessee where I know I can make a difference. A degree path where I can connect with many people to help protect them from the threats and concerns of the cyberspace and artificial intelligence, in this way I can make a big difference in my hometown, where my roots are strong, and the place I enjoy being.]
 
 ### Final POV Statement
 *(Choose the draft — or a refined combination — that feels most honest and most useful.)*
 
-> [Your final POV Statement here]
+> [[I am Wyatt Maples from Pigeon Forge, Tennessee where I know I can make a difference in making a better future for everyone. A degree path where I can connect with many people to help protect them from the threats and concerns of the cyberspace and artificial intelligence, in this way I can make a big difference in my hometown, where my roots are strong, and the place I enjoy being and I know working this way will be good and keep me engaged as apart from being away from people and stuck away in an office]
 
 ---
 
@@ -80,4 +80,4 @@ Below your final POV Statement, write a short paragraph (5–8 sentences) respon
 - How does it connect to your Module 2 findings?
 
 **My Reflection:**
-[Your response here]
+[The most difficult part about making my pov statement definitly had to be the self analysis about myself and my strong suits and places I can work on. That being said in the process of doing this I discovered that I can lead through my work and be a greater person. My pov statement does not suprise me at all, it's exactly who I am and want to be. It connects to Module 2 in a lot of ways specifically using my SWOT and Empathy maps.]
