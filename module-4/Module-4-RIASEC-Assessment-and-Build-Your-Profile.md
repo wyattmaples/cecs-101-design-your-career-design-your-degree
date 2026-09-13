@@ -25,16 +25,16 @@ When you finish, record the following:
 
 ### My Holland Code
 
-**My three-letter Holland Code:** ___
+**My three-letter Holland Code:** ECI
 
 | Type | Score | Strength Level |
 |---|---|---|
-| Realistic (R) | | |
-| Investigative (I) | | |
-| Artistic (A) | | |
-| Social (S) | | |
-| Enterprising (E) | | |
-| Conventional (C) | | |
+| Realistic (R) |11| |
+| Investigative (I) |12| |
+| Artistic (A) |5| |
+| Social (S) |11| |
+| Enterprising (E) |17| |
+| Conventional (C) |14| |
 
 ---
 
@@ -44,51 +44,51 @@ For each of your top three RIASEC types, respond to the following prompts:
 
 ### My Top Three Types — Detailed Interpretation
 
-#### Type 1: [Letter] — [Type Name]
+#### Type 1: [E] — [Enterprising]
 
 **What this type typically values:**
-[Your response — based on the description above and your assessment results]
+[managing, negotiating, leading people. Enjoying work with people]
 
 **How this shows up in my life:**
 *(Think about your hobbies, favorite school subjects, activities you lose track of time doing, volunteer work, or part-time jobs.)*
-[Your response here]
+[This shows up through my love for sports, and people skills]
 
 **Careers associated with this type that interest me:**
 *(List at least 3 from the O*NET results or your own research.)*
-1. *career-1*
-2. *career-2*
-3. *career-3*
+1. *Administrative Services Manager*
+2. *Advertising & Promotions Managers*
+3. *Administrative Law Judges, Adjudicators*
 
 
 ---
 
-#### Type 2: [Letter] — [Type Name]
+#### Type 2: [C] — [Conventional]
 
 **What this type typically values:**
-[Your response here]
+[following procedures and regulations to organize data, typically in business]
 
 **How this shows up in my life:**
-[Your response here]
+[I enjoy when things are done swift and correctly]
 
 **Careers associated with this type that interest me:**
-1. *career-1*
-2. *career-2*
-3. *career-3*
+1. *Sales Engineers*
+2. *Security Management*
+3. *Sales Rep, Manufacturing, Technical & Scientific Products*
 
 ---
 
-#### Type 3: [Letter] — [Type Name]
+#### Type 3: [I] — [Investigative]
 
 **What this type typically values:**
-[Your response here]
+[Study and research non-living objects, living organisms, disease or other forms of ipairment]
 
 **How this shows up in my life:**
-[Your response here]
+[I am very interested in how things work]
 
 **Careers associated with this type that interest me:**
-1. *career-1*
-2. *career-2*
-3. *career-3*
+1. *Aerospace Engineers*
+2. *Allergists & Immunologists*
+3. *Anesthesiologists*
 
 ---
 
@@ -102,12 +102,12 @@ Then respond to the following to connect RIASEC to your self-assessment.
 
 **Where my Holland Code and Module 2 findings align:**
 *(What overlaps between your RIASEC profile and what you discovered about yourself — values, strengths, interests?)*
-[Your response here]
+[My findings aligned pretty similar to my Mod 2 findings, I believe my strengths are more clearly laid out now, more than before]
 
 **Where there are surprises or tensions:**
 *(Did your Holland Code reveal anything unexpected? Does it conflict with anything you thought you knew about yourself?)*
-[Your response here]
+[Based from the Holland Code I am a little suprised with my results of being ivestigative, as I never really saw myself as that]
 
 **What this tells me about my career direction:**
 *(What is the most important insight from combining your RIASEC results with your SWOT?)*
-[Your response here]
+[I can use these insights to choose my career in something that really fits who I am as a person]
